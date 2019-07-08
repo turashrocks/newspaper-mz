@@ -25,8 +25,10 @@ Laravel development server started: <http://127.0.0.1:8000>
 
 ## Login 
 
-url: "http://127.0.0.1:8000/login"
-username: turash@app.com
-password: password
+- url: "http://127.0.0.1:8000/login"
+- username: turash@app.com
+- password: password
+
+[Please set go to each post and update the featured images thank you]
 
 
