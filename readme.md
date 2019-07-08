@@ -5,6 +5,7 @@
 Clone of  <a href="https://www.mzamin.com/">Manabzamin Newspaper</a><br/>
 with <a href="https://laravel.com/">Laravel</a>
 </p>
+
 ## Steps to Install
 
 -In Command Line type
@@ -16,7 +17,16 @@ with <a href="https://laravel.com/">Laravel</a>
 
 - In Command Line type
 - *php artisan key:generate*
+- *php artisan storage:link*
 - *php artisan migrate:refresh --seed*
 - *php artisan serve*
 
 Laravel development server started: <http://127.0.0.1:8000>
+
+## Login 
+
+url: "http://127.0.0.1:8000/login"
+username: turash@app.com
+password: password
+
+
