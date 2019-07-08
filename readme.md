@@ -2,9 +2,8 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p>
-<a href="https://www.mzamin.com/">Clone of Manabzamin Newspaper</a><br/>
-with<br/>
-<a href="https://laravel.com/">Laravel</a>
+Clone of  <a href="https://www.mzamin.com/">Manabzamin Newspaper</a><br/>
+with <a href="https://laravel.com/">Laravel</a>
 </p>
 ## Steps to Install
 
