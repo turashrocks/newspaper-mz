@@ -1,9 +1,11 @@
 <p align="center"><img src="https://www.mzamin.com/asset/images/logos.png"></p>
+<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
-<a href="https://www.mzamin.com/">Clone of Manabzamin Newspaper"></a> with
+<a href="https://www.mzamin.com/">Clone of Manabzamin Newspaper</a><br/>
+with<br/>
 <a href="https://laravel.com/">Laravel"></a>
-
+</p>
 ## Steps to Install
 
 -In Command Line type
