@@ -14,8 +14,8 @@ with <a href="https://laravel.com/">Laravel</a>
 
 - Create a database in phpmyadmin and edit .env file with relavant information in DB_DATABASE, DB_USERNAME, DB_PASSWORD.
 
--In Command Line type
-
+- In Command Line type
+- *php artisan key:generate*
 - *php artisan migrate:refresh --seed*
 - *php artisan serve*
 
