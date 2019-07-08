@@ -9,9 +9,9 @@ with <a href="https://laravel.com/">Laravel</a>
 ## Steps to Install
 
 -In Command Line type
-*'git clone https://github.com/turashrocks/newspaper-mz.git'*
-*'cd newspaper-mz'*
-*'composer install'*
+- *'git clone https://github.com/turashrocks/newspaper-mz.git'*
+- *'cd newspaper-mz'*
+- *'composer install'*
 
 - Create a database in phpmyadmin and edit .env file with relavant information in DB_DATABASE, DB_USERNAME, DB_PASSWORD.
 
